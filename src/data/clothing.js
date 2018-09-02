@@ -6,7 +6,7 @@ const clothing = [
     title: "Ima's Perfect Fall Outfit",
   },
   {
-    img: 'https://github.com/aeronesto/DemoRetailShop/blob/master/public/images/jacket.jpeg',
+    img: 'https://raw.githubusercontent.com/aeronesto/DemoRetailShop/blob/master/public/images/jacket.jpeg',
     alt: 'jacket',
     brand: 'The Great',
     title: 'The Swingy Army Jacket',
@@ -24,7 +24,7 @@ const clothing = [
     notes: `Made from 100% cotton its even machine washable (just tumble dry on low)`
   },
   {
-    img: 'https://github.com/aeronesto/DemoRetailShop/blob/master/public/images/blouse.jpeg',
+    img: 'https://raw.githubusercontent.com/aeronesto/DemoRetailShop/blob/master/public/images/blouse.jpeg',
     alt: 'blouse',
     brand: `L'AGENCE`,
     title: 'Jane Tiger-Print Silk Cami Top',
@@ -44,7 +44,7 @@ const clothing = [
     notes: `It's all silk, so dry clean only`
   },
   {
-    img: 'https://github.com/aeronesto/DemoRetailShop/blob/master/public/images/pants.jpeg',
+    img: 'https://raw.githubusercontent.com/aeronesto/DemoRetailShop/blob/master/public/images/pants.jpeg',
     alt: 'pants',
     brand: `L'AGENCE`,
     title: 'Margot High Rise Skinny Jeans',
@@ -71,7 +71,7 @@ const clothing = [
     notes: 'Made from 94% cotton/4% polyester/2% spandex, so wash cold'
   },
   {
-    img: 'https://github.com/aeronesto/DemoRetailShop/blob/master/public/images/shoes.jpeg',
+    img: 'https://raw.githubusercontent.com/aeronesto/DemoRetailShop/blob/master/public/images/shoes.jpeg',
     alt: 'shoes',
     brand: 'Paul Green',
     title: 'Sabrina Sandal',
